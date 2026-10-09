@@ -1,0 +1,17 @@
+[
+  {
+    "id": "belgeselx",
+    "name": "BelgeselX",
+    "description": "BelgeselX video sağlayıcısı",
+    "version": "1.0.0",
+    "author": "tvboxdeney-glitch",
+    "supportedTypes": ["movie", "tv"],
+    "filename": "providers/belgeselx.js",
+    "enabled": true,
+    "contentLanguage": ["tr"],
+    "formats": ["mp4", "mkv"],
+    "limited": true,
+    "disabledPlatforms": [],
+    "supportsExternalPlayer": true
+  }
+]
